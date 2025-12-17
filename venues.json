@@ -1,0 +1,12 @@
+{
+  "venues": [
+    {
+      "id": "ric-jaipur",
+      "config": "/venues/ric-jaipur.json",
+      "floors": [
+        "/floors/ric/floor1.json",
+        "/floors/ric/floor2.json"
+      ]
+    }
+  ]
+}
