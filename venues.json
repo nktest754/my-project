@@ -3,12 +3,12 @@
     {
       "id": "ric", 
       "name": "Rajasthan Internation Center",
-      "image": "/images/floors/ric.json"
+      "image": "/images/floors/ric.png"
     }, 
 {
       "id": "bth", 
       "name": "Bhamashah Techno Hub",
-      "image": "/images/floors/bth.json"
+      "image": "/images/floors/bth.png"
     }
   ]
 }
