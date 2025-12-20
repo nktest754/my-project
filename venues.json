@@ -5,21 +5,24 @@
       "name": "Rajasthan Internation Center",
       "label": "Convention Center",
       "address": "Jhalana Dungri, Malviya Nagar, Jaipur",
-      "image": "/images/venues/ric.png"
+      "image": "/images/venues/ric.png",
+      "active": false
     }, 
     {
       "id": "bth", 
       "name": "Bhamashah Techno Hub",
       "label": "Startup Incubation Center",
       "address": "Jhalana Dungri, Malviya Nagar, Jaipur",
-      "image": "/images/venues/bth.png"
+      "image": "/images/venues/bth.png",
+      "active": true
     }, 
     {
-      "id": "bth", 
-      "name": "Bhamashah Techno Hub",
-      "label": "Startup Incubation Center",
+      "id": "jecc", 
+      "name": "Jaipur Exhibition & Convention Center",
+      "label": "Exhibition & Convention Center",
       "address": "Jhalana Dungri, Malviya Nagar, Jaipur",
-      "image": "/images/venues/bth.png"
+      "image": "/images/venues/jecc.png",
+      "active": false
     }
   ]
 }
