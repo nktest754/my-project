@@ -1,9 +1,9 @@
 {
-  "id": "ric",
-  "name": "RIC Building",
-  "image": "/venues/ric/building.jpg",
-  "label": "Office Building",
-  "address": "123 Innovation Street, Tech City, TC 12345",
+  "id": "bth",
+  "name": "Bhamashah Techno Hub",
+  "image": "/images/venues/bth.png",
+  "label": "Startup Incubation Center",
+  "address": "Malviya Nagar, Jaipur",
   "quickMenuItems": [
     {
       "label": "Parking",
