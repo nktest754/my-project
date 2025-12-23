@@ -1,7 +1,7 @@
 {
   "id": "bth",
   "name": "Bhamashah Techno Hub",
-  "image": "/images/venues/bth.png",
+  "image": "/venues/bth/images/bth.png",
   "label": "Startup Incubation Center",
   "address": "Malviya Nagar, Jaipur",
   "quickMenuItems": [
