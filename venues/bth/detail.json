@@ -7,7 +7,7 @@
   "quickMenuItems": [
     {
       "label": "Parking",
-      "icon": "/assets/images/icons/parking.svg",
+      "icon": "/venues/bth/images/icons/parking.svg",
       "color": "#4CAF50",
       "backgroundColor": "#E8F5E9",
       "actionType": "parking",
@@ -17,7 +17,7 @@
     },
     {
       "label": "Reception",
-      "icon": "/assets/images/icons/reception.svg",
+      "icon": "/venues/bth/images/icons/reception.svg",
       "color": "#6F45FF",
       "backgroundColor": "#F3F1FF",
       "actionType": "reception",
@@ -27,7 +27,7 @@
     },
     {
       "label": "Restroom",
-      "icon": "/assets/images/icons/restroom.svg",
+      "icon": "/venues/bth/images/icons/restroom.svg",
       "color": "#2196F3",
       "backgroundColor": "#E3F2FD",
       "actionType": "restroom",
