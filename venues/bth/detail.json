@@ -116,8 +116,8 @@
       "description": "Registration, Incubation, Meeting",
       "icon": "/assets/images/icons/place_icon.svg",
       "level": "1",
-      "x": 90,
-      "y": 180
+      "x": 120,
+      "y": 240
     },
     {
       "name": "Male Washroom",
