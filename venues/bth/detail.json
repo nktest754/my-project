@@ -54,7 +54,7 @@
       "icon": "/assets/images/icons/place_icon.svg",
       "level": "S",
       "x": 8,
-      "y": 33
+      "y": 40
     },
     {
       "name": "Reception",
@@ -63,7 +63,7 @@
       "icon": "/assets/images/icons/place_icon.svg",
       "level": "S",
       "x": 12,
-      "y": 33
+      "y": 40
     },
     {
       "name": "Lobby - (Floor: S)",
