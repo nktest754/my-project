@@ -13,7 +13,7 @@
       "actionType": "parking",
       "level": "2",
       "x": 32,
-      "y": 107
+      "y": 90
     },
     {
       "label": "Dialogue Box 2",
@@ -22,8 +22,8 @@
       "backgroundColor": "#E3F2FD",
       "actionType": "restroom",
       "level": "2",
-      "x": 37,
-      "y": 107
+      "x": 34,
+      "y": 90
     },
     {
       "label": "Cafeteria",
@@ -32,8 +32,8 @@
       "backgroundColor": "#F3F1FF",
       "actionType": "reception",
       "level": "1",
-      "x": 25,
-      "y": 70
+      "x": 20,
+      "y": 60
     },
     {
       "label": "Tinkering Lab",
@@ -42,8 +42,8 @@
       "backgroundColor": "#E3F2FD",
       "actionType": "restroom",
       "level": "4",
-      "x": 33,
-      "y": 90
+      "x": 26,
+      "y": 60
     }
   ],
   "selectionList": [
