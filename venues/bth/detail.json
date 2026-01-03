@@ -6,44 +6,44 @@
   "address": "Malviya Nagar, Jaipur",
   "quickMenuItems": [
     {
-      "label": "Parking",
-      "icon": "/venues/bth/images/icons/parking.svg",
+      "label": "Auditorium",
+      "icon": "/venues/bth/images/icons/auditorium.svg",
       "color": "#4CAF50",
       "backgroundColor": "#E8F5E9",
       "actionType": "parking",
-      "level": "S",
-      "x": 29,
-      "y": 52
+      "level": "2",
+      "x": 32,
+      "y": 107
     },
     {
-      "label": "Reception",
-      "icon": "/venues/bth/images/icons/reception.svg",
+      "label": "Dialogue Box 2",
+      "icon": "/venues/bth/images/icons/meeting-room.svg",
+      "color": "#2196F3",
+      "backgroundColor": "#E3F2FD",
+      "actionType": "restroom",
+      "level": "2",
+      "x": 37,
+      "y": 107
+    },
+    {
+      "label": "Cafeteria",
+      "icon": "/venues/bth/images/icons/cafeteria.svg",
       "color": "#6F45FF",
       "backgroundColor": "#F3F1FF",
       "actionType": "reception",
-      "level": "S",
-      "x": 34,
-      "y": 64
+      "level": "1",
+      "x": 25,
+      "y": 70
     },
     {
-      "label": "Restroom",
-      "icon": "/venues/bth/images/icons/restroom.svg",
+      "label": "Tinkering Lab",
+      "icon": "/venues/bth/images/icons/tinkering-lab.svg",
       "color": "#2196F3",
       "backgroundColor": "#E3F2FD",
       "actionType": "restroom",
-      "level": "5",
-      "x": 72,
-      "y": 107
-    },
-    {
-      "label": "Restroom",
-      "icon": "/venues/bth/images/icons/restroom.svg",
-      "color": "#2196F3",
-      "backgroundColor": "#E3F2FD",
-      "actionType": "restroom",
-      "level": "5",
-      "x": 72,
-      "y": 107
+      "level": "4",
+      "x": 33,
+      "y": 90
     }
   ],
   "selectionList": [
