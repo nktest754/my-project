@@ -434,13 +434,11 @@
       "x": 26,
       "y": 66
     },
-    
     {
-      "label": "Operations Manager",
-      "icon": "/venues/bth/images/icons/tinkering-lab.svg",
-      "color": "#2196F3",
-      "backgroundColor": "#E3F2FD",
-      "actionType": "restroom",
+      "name": "Operations Manager",
+      "tag": "Registration",
+      "description": "3D printer, DIY Drones, Robotics and Electronics",
+      "icon": "/assets/images/icons/place_icon.svg",
       "level": "4",
       "x": 19,
       "y": 100
