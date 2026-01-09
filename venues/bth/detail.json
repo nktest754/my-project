@@ -44,16 +44,6 @@
       "level": "4",
       "x": 26,
       "y": 60
-    },
-    {
-      "label": "Operations Manager",
-      "icon": "/venues/bth/images/icons/tinkering-lab.svg",
-      "color": "#2196F3",
-      "backgroundColor": "#E3F2FD",
-      "actionType": "restroom",
-      "level": "4",
-      "x": 19,
-      "y": 100
     }
   ],
   "selectionList": [
@@ -443,6 +433,17 @@
       "level": "4",
       "x": 26,
       "y": 66
+    },
+    
+    {
+      "label": "Operations Manager",
+      "icon": "/venues/bth/images/icons/tinkering-lab.svg",
+      "color": "#2196F3",
+      "backgroundColor": "#E3F2FD",
+      "actionType": "restroom",
+      "level": "4",
+      "x": 19,
+      "y": 100
     },
     {
       "name": "Shubham Gupta",
